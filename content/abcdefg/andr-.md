@@ -20,7 +20,7 @@ andr- (男性) + gyn- (女性) + -ous (形容词后缀)
 
 **polyandry：一妻多夫制**
 
-（**trivial**）poly- (多) + andr- (男性) + -y (名词后缀)
+poly- (多) + andr- (男性) + -y (名词后缀)
 
 #y
 # misandry

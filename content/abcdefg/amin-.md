@@ -22,7 +22,7 @@
 
 amino- (源自 amine)，意为 含有氨基的
 
-（**trivial**）acid (源自拉丁语 acidus)，意为 酸
+acid (源自拉丁语 acidus)，意为 酸
 
 （构成蛋白质的基本单位，含有氨基和羧基）
 

@@ -1,21 +1,56 @@
 ---
 title: 汇总
 ---
+# 优先记忆
+
+[[pro-]] [[sub-]] 
+
+[[-ine]] [[-oid]] [[anthrop-]] [[aqua-]] [[capt-]] [[cogn- & gnos-]] [[cord-]] [[dict-]] [[fact-]] [[graph-]] [[leg-]] [[logy-]] [[male-]] [[man-]] [[ped-]] [[photo-]] [[script-]] [[spect-]] [[terr-]] [[vis-]] [[voc-]] 
 # a-g
 
-[[album-]] [[amin-]] [[andr-]] [[cumul-]] [[gyn-]]
-
+[[gyn-]]
+[[album-]]
+[[amin-]]
+[[andr-]]
+[[anthrop-]]
+[[aqua-]]
+[[capt-]]
+[[cogn- & gnos-]]
+[[cord-]]
+[[cumul-]]
+[[dict-]]
+[[fact-]]
+[[graph-]]
 # h-n
 
-[[-ine]] [[logy-]] [[miso-]] 
+[[miso-]]
+[[-ine]]
+[[leg-]]
+[[logy-]]
+[[male-]]
+[[man-]]
 
 # o-t
 
-[[-oid]] [[-parous]] [[ov-]] [[spher-]] [[strato-]] [[thyr-]] 
-
+[[thyr-]]
+[[-oid]]
+[[-parous]]
+[[ov-]]
+[[ped-]]
+[[photo-]]
+[[pro-]]
+[[script-]]
+[[spect-]]
+[[spher-]]
+[[strato-]]
+[[sub-]]
+[[terr-]]
 # u-z
 
-[[vital-]] [[vivi-]] 
+[[voc-]]
+[[vis-]]
+[[vital-]]
+[[vivi-]]
 
 # 其他
 
