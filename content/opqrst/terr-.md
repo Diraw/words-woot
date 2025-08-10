@@ -42,9 +42,7 @@ terr- (拉丁语 terra)，意为 土地
 
 **subterranean：地下的**
 
-sub- (前缀)，表示“在……下面”
-
-#sub 
+[sub-](sub-) (前缀)，表示“在……下面”
 
 terr- (拉丁语 terra)，意为 土地
 
