@@ -23,4 +23,4 @@ title: 汇总
 
 # 测试网站
 
-[https://word.diraw.top/](https://word.diraw.top/) 
+[https://word.diraw.top/](https://word.diraw.top/) （网站包含所有本文档涉及的单词）
