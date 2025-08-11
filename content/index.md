@@ -88,8 +88,7 @@ title: 汇总
 
 # 其他
 
-[[词缀]]
-
+[[词缀]] [[词源]]
 # 测试网站
 
-[https://word.diraw.top/](https://word.diraw.top/) （包含本文档所有单词）
+[https://word.diraw.top/](https://word.diraw.top/)：包含本文档所有单词（除 [[词源]] 中的）
