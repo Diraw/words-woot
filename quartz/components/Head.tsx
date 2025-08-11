@@ -36,6 +36,17 @@ export default (() => {
     )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
+    // 将百度统计代码作为字符串定义
+    const baiduAnalyticsScript = `
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?1e621ddd3ef3a97d8eb806d1e08864aa";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+    `;
+
     return (
       <head>
         <title>{title}</title>
@@ -97,6 +108,9 @@ export default (() => {
             return resource
           }
         })}
+
+      <script dangerouslySetInnerHTML={{ __html: baiduAnalyticsScript }} />
+
       </head>
     )
   }
