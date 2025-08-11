@@ -88,7 +88,7 @@ title: 汇总
 
 # 其他
 
-[[词缀]] [[词源]]
+[[词缀]] [词源](https://word.wiki.diraw.top/%E8%AF%8D%E6%BA%90/)
 # 测试网站
 
-[https://word.diraw.top/](https://word.diraw.top/)：包含本文档所有单词（除 [[词源]] 中的）
+[https://word.diraw.top/](https://word.diraw.top/)：包含本文档所有单词（除 [词源](https://word.wiki.diraw.top/%E8%AF%8D%E6%BA%90/) 中的）
