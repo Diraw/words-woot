@@ -15,7 +15,7 @@
 
 -ical (形容词后缀)，表示“……的”
 
-#ica
+#al
 
 # hemisphere
 

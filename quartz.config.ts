@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "zh-CN",
     baseUrl: "word.wiki.diraw.app",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "未添加"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
